@@ -8,6 +8,7 @@ function App() {
       <hr></hr>
       <h3>29th July 2023</h3>
       <hr></hr>
+      <h4>Final Project</h4>
     </div>
   );
 }
